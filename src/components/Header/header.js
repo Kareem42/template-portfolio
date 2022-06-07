@@ -6,8 +6,8 @@ export default function Header () {
 
     const handleClick = () => {
         console.log('this is working fine');
-
     }
+    
 
     const scrollToTop = () => {
         scroll.scrollToTop();
@@ -38,7 +38,7 @@ export default function Header () {
                        onClick={handleClick}
                        spy={true}
                        smooth={true}
-                       offset={-70}
+                       offset={-130}
                        duration={500}>About</Link>
               <Link className="nav-link nav-link-ltr"
                        href="#skills"  
