@@ -16,7 +16,7 @@ export default function Skills() {
         <>
         <Container className="fill d-flexbox rounded p-5 text-white">
             <div className="text-center">
-                    <h1>Development/Tools</h1>
+                    <h1>Development & BI Tools</h1>
             </div> 
  
         
